@@ -21,6 +21,10 @@ namespace CriadorCaes {
       // This method gets called by the runtime. Use this method to add services to the container.
       public void ConfigureServices(IServiceCollection services) {
          services.AddControllersWithViews();
+
+        //configuar a aplicação (o nosso sistema) para aceder à Base de Dados
+        //e de que tipo será
+            services.AddDbContext<CriadorCaesBD>();
       }
 
       // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
