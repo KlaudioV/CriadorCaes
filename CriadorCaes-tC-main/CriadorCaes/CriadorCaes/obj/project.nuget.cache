@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vzSAqYG59SGjvVI+a7cNW4xHoz4xlB6781LI/TxlL0JBMPfniTPuXRy4cg+Dpk2p08CRflU+A3eiXlW3XdBp8Q==",
+  "dgSpecHash": "E8Lq+UJV+lAp4GcXv/zpwd9eRJOgsIJTIyJ9OBU9+WkV2usUyuBATT3R97dQWV3fn3wT4D7MNDkLQa2FqdBldQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Velez\\OneDrive\\Ambiente de Trabalho\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj",
+  "projectFilePath": "C:\\Users\\Velez\\Source\\Repos\\CriadorCaes\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Velez\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\Velez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",

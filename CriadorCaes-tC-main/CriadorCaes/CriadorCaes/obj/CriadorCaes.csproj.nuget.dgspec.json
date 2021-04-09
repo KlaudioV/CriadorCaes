@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Velez\\OneDrive\\Ambiente de Trabalho\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj": {}
+    "C:\\Users\\Velez\\Source\\Repos\\CriadorCaes\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Velez\\OneDrive\\Ambiente de Trabalho\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj": {
+    "C:\\Users\\Velez\\Source\\Repos\\CriadorCaes\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Velez\\OneDrive\\Ambiente de Trabalho\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj",
+        "projectUniqueName": "C:\\Users\\Velez\\Source\\Repos\\CriadorCaes\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj",
         "projectName": "CriadorCaes",
-        "projectPath": "C:\\Users\\Velez\\OneDrive\\Ambiente de Trabalho\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj",
+        "projectPath": "C:\\Users\\Velez\\Source\\Repos\\CriadorCaes\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\CriadorCaes.csproj",
         "packagesPath": "C:\\Users\\Velez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Velez\\OneDrive\\Ambiente de Trabalho\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\obj\\",
+        "outputPath": "C:\\Users\\Velez\\Source\\Repos\\CriadorCaes\\CriadorCaes-tC-main\\CriadorCaes\\CriadorCaes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Velez\\AppData\\Roaming\\NuGet\\NuGet.Config",
